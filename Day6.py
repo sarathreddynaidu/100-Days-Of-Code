@@ -1,5 +1,5 @@
 ###### Reeborg's World ######
-https://reeborg.ca/index_en.html
+# https://reeborg.ca/index_en.html
 
-# Mazze 
-https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
+# Maze 
+# https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
