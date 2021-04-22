@@ -24,3 +24,13 @@ print(new)
 names = ["sai", "prudhvi", "mahesh", "mrudula"]
 new_names = [name.upper() for name in names if len(name) < 7]
 print(new_names)
+
+# squared numbers
+numbers = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
+squared_numbers = [num * num for num in numbers]
+print(squared_numbers)
+
+# even numbers
+numbers = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
+result = [num for num in numbers if num % 2 == 0]
+print(result)
