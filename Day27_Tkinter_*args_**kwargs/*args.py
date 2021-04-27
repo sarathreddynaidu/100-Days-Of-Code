@@ -1,3 +1,5 @@
+# *args: Positional Variable-Length Arguments
+
 def my_func(*args):
     for n in args:
         print(n)
